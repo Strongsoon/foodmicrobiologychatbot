@@ -1,0 +1,2089 @@
+[
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Which of the following is not a type of microorganism?",
+    "options": ["Protozoa", "Bacteria", "Archaea", "Viruses", "Dogs"],
+    "correctAnswer": 4
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Which scientist disproved the theory of spontaneous generation?",
+    "options": ["Antonie van Leeuwenhoek", "Louis Pasteur", "Francesco Redi", "Robert Koch"],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "What is the main component of bacterial cell walls?",
+    "options": ["Peptidoglycan", "Cellulose", "Chitin", "Protein"],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Which of the following is a characteristic of viruses?",
+    "options": ["They have a nucleus", "They have ribosomes", "They are obligate parasites", "They are eukaryotes"],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "What is the function of the bacterial capsule?",
+    "options": ["Store nutrients", "Protect from immune system", "Reproduction", "Photosynthesis"],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Which bacteria are commonly used in industrial fermentation?",
+    "options": ["Escherichia coli", "Bacillus anthracis", "Clostridium tetani", "Streptococcus pneumoniae"],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Symbiotic relationship in lichens is called:",
+    "options": ["Commensalism", "Parasitism", "Mutualism", "Amensalism"],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Which microorganism does not have a nucleus?",
+    "options": ["Algae", "Protozoa", "Bacteria", "Fungi"],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "What is the term for bacterial cell division?",
+    "options": ["Binary fission", "Mitosis", "Meiosis", "Budding"],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Microorganism responsible for tuberculosis?",
+    "options": ["Mycobacterium tuberculosis", "Streptococcus pneumoniae", "E. coli", "Bacillus anthracis"],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Who isolated pure cultures of microbes?",
+    "options": ["Robert Koch", "Louis Pasteur", "Antonie van Leeuwenhoek", "Edward Jenner"],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Main function of protozoa in aquatic environments?",
+    "options": ["Photosynthesis", "Nitrogen fixation", "Decomposing matter", "Food chain"],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Microorganisms used in food fermentation?",
+    "options": ["Viruses", "Protozoa", "Algae", "Bacteria and yeasts"],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Technique by Louis Pasteur to reduce microbes in liquids?",
+    "options": ["Pasteurization", "Autoclaving", "Sterilization", "Filtration"],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Bacteria linked to foodborne illness?",
+    "options": ["Clostridium botulinum", "Salmonella", "Streptococcus mutans", "Mycobacterium leprae"],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Structure used by bacteria for movement?",
+    "options": ["Cilia", "Flagella", "Pili", "Spores"],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Which is true about yeast?",
+    "options": ["Prokaryotic", "Multicellular", "Photosynthetic", "Unicellular fungi"],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Which group forms spores and fruiting bodies?",
+    "options": ["Fungi", "Bacteria", "Protozoa", "Viruses"],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Which is anaerobic?",
+    "options": ["E. coli", "Streptococcus", "Clostridium botulinum", "Bacillus subtilis"],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "general",
+    "type": "multiple",
+    "question": "Extremophiles live in...",
+    "options": ["Extreme conditions", "Normal soil", "Saltwater", "Tropics"],
+    "correctAnswer": 0
+  },
+
+
+
+  {
+    "quiz_category": "general",
+    "type": "truefalse",
+    "question": "Bacteria are classified as prokaryotes because they lack membrane-bound organelles.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "general",
+    "type": "truefalse",
+    "question": "Yeasts are unicellular fungi that can perform fermentation.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "general",
+    "type": "truefalse",
+    "question": "All bacteria are harmful and cause diseases.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "general",
+    "type": "truefalse",
+    "question": "Microbes play an important role in nutrient recycling in ecosystems.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "general",
+    "type": "truefalse",
+    "question": "Protozoa can cause diseases such as malaria and sleeping sickness.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "general",
+    "type": "truefalse",
+    "question": "Fungi can perform photosynthesis like plants.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "general",
+    "type": "truefalse",
+    "question": "Protozoa are unicellular organisms that can move using flagella.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "general",
+    "type": "truefalse",
+    "question": "Prions are smaller than viruses and lack genetic material.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "general",
+    "type": "truefalse",
+    "question": "Bacterial flagella are used for reproduction.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "general",
+    "type": "truefalse",
+    "question": "Lichens are a mutualistic relationship between fungi and algae.",
+    "correctAnswer": true
+  },
+
+  {
+    "quiz_category": "general",
+    "type": "text",
+    "question": "Which microorganism causes tuberculosis?",
+    "correctAnswer": "mycobacterium tuberculosis"
+  },
+  {
+    "quiz_category": "general",
+    "type": "text",
+    "question": "What is the main component in bacterial cell walls?",
+    "correctAnswer": "peptidoglycan"
+  },
+  {
+    "quiz_category": "general",
+    "type": "text",
+    "question": "Which microorganism causes malaria?",
+    "correctAnswer": "plasmodium"
+  },
+  {
+    "quiz_category": "general",
+    "type": "text",
+    "question": "Who developed the germ theory of disease?",
+    "correctAnswer": "louis pasteur"
+  },
+  {
+    "quiz_category": "general",
+    "type": "text",
+    "question": "What is the process by which sugars are turned into alcohol by microbes?",
+    "correctAnswer": "fermentation"
+  },
+  {
+    "quiz_category": "general",
+    "type": "text",
+    "question": "What fungi are used in alcohol fermentation?",
+    "correctAnswer": "yeast"
+  },
+  {
+    "quiz_category": "general",
+    "type": "text",
+    "question": "Which bacteria fix nitrogen in soil?",
+    "correctAnswer": "rhizobium"
+  },
+  {
+    "quiz_category": "general",
+    "type": "text",
+    "question": "Which microorganism causes tetanus?",
+    "correctAnswer": "clostridium tetani"
+  },
+  {
+    "quiz_category": "general",
+    "type": "text",
+    "question": "Which microorganism is used to make yogurt?",
+    "correctAnswer": "lactobacillus"
+  },
+  {
+    "quiz_category": "general",
+    "type": "text",
+    "question": "What is the process where microbes clean pollutants?",
+    "correctAnswer": "bioremediation"
+  },
+
+
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which bacterium is most commonly associated with undercooked chicken?",
+    "options": [
+      "E. coli",
+      "Listeria",
+      "Salmonella",
+      "Staphylococcus"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "At what internal temperature should ground beef be cooked to ensure safety?",
+    "options": [
+      "60\u00b0C",
+      "63\u00b0C",
+      "71\u00b0C",
+      "77\u00b0C"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which of the following is NOT a method of foodborne pathogen control?",
+    "options": [
+      "Freezing",
+      "Cooking",
+      "Pasteurization",
+      "Contamination"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which organism causes botulism?",
+    "options": [
+      "Salmonella",
+      "E. coli",
+      "Clostridium botulinum",
+      "Listeria monocytogenes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "What does HACCP stand for?",
+    "options": [
+      "Hazard Analysis and Critical Control Points",
+      "Health and Agriculture Control Program",
+      "High Alert Contamination Control Plan",
+      "Hazard Awareness and Clean Cooking Program"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "What is the danger zone for bacterial growth in food?",
+    "options": [
+      "0\u00b0C to 4\u00b0C",
+      "5\u00b0C to 60\u00b0C",
+      "61\u00b0C to 80\u00b0C",
+      "Above 80\u00b0C"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which food is most likely to carry Listeria?",
+    "options": [
+      "Ice cream",
+      "Leafy greens",
+      "Canned tuna",
+      "Unpasteurized dairy"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which bacteria are commonly found in improperly canned foods?",
+    "options": [
+      "Salmonella",
+      "Campylobacter",
+      "Clostridium botulinum",
+      "Bacillus cereus"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which of these symptoms is NOT associated with food poisoning?",
+    "options": [
+      "Vomiting",
+      "Fever",
+      "Headache",
+      "Hives"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which surface should be cleaned after contact with raw meat?",
+    "options": [
+      "Only plates",
+      "All surfaces",
+      "Cutting boards only",
+      "Utensils only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which of these organisms is a virus that causes foodborne illness?",
+    "options": [
+      "Salmonella",
+      "Norovirus",
+      "Campylobacter",
+      "Listeria"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "What type of food is most associated with E. coli outbreaks?",
+    "options": [
+      "Raw eggs",
+      "Uncooked flour",
+      "Ground beef",
+      "Soft cheeses"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which practice can reduce cross-contamination?",
+    "options": [
+      "Reusing cutting boards",
+      "Using the same knife",
+      "Separating raw and cooked foods",
+      "Not washing hands"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which bacterial illness can cause hemolytic uremic syndrome (HUS)?",
+    "options": [
+      "Listeriosis",
+      "Salmonellosis",
+      "E. coli O157:H7 infection",
+      "Botulism"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which bacteria thrives in salty food environments?",
+    "options": [
+      "E. coli",
+      "Salmonella",
+      "Vibrio",
+      "Staphylococcus aureus"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "How should leftovers be stored?",
+    "options": [
+      "At room temperature",
+      "In the microwave",
+      "Refrigerated below 5\u00b0C",
+      "Covered on the counter"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which of these is a preventive food safety measure?",
+    "options": [
+      "Ignoring best-before dates",
+      "Hand washing",
+      "Tasting food to test it",
+      "Leaving food uncovered"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which pathogen is commonly found in undercooked eggs?",
+    "options": [
+      "E. coli",
+      "Salmonella",
+      "Listeria",
+      "Campylobacter"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "What type of foodborne illness does Clostridium perfringens cause?",
+    "options": [
+      "Gastroenteritis",
+      "Meningitis",
+      "Respiratory infection",
+      "Sepsis"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "multiple",
+    "question": "Which food should be avoided during pregnancy due to risk of Listeria?",
+    "options": [
+      "Hard cheese",
+      "Unpasteurized milk",
+      "Cooked meats",
+      "Pasteurized yogurt"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "truefalse",
+    "question": "Salmonella can be killed by proper cooking.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "truefalse",
+    "question": "Washing raw chicken helps remove bacteria.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "truefalse",
+    "question": "Foodborne illnesses can be caused by bacteria, viruses, or parasites.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "truefalse",
+    "question": "The 'use by' date is only a suggestion and can be ignored.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "truefalse",
+    "question": "Hepatitis A can be transmitted through contaminated food.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "truefalse",
+    "question": "Freezing food kills all bacteria.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "truefalse",
+    "question": "Cross-contamination is a major cause of foodborne illness.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "truefalse",
+    "question": "Food that smells fine is always safe to eat.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "truefalse",
+    "question": "Bacteria grow best in warm, moist environments.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "truefalse",
+    "question": "Reheating food to 75\u00b0C can help kill most pathogens.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "text",
+    "question": "Which bacterium causes botulism?",
+    "correctAnswer": "clostridium botulinum"
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "text",
+    "question": "Which virus is a common cause of foodborne illness?",
+    "correctAnswer": "norovirus"
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "text",
+    "question": "What is the term for harmful microorganisms in food?",
+    "correctAnswer": "pathogens"
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "text",
+    "question": "Which bacteria is commonly found in ground beef?",
+    "correctAnswer": "e. coli"
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "text",
+    "question": "What term describes transfer of bacteria from raw to cooked foods?",
+    "correctAnswer": "cross-contamination"
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "text",
+    "question": "What is the most effective way to kill bacteria in food?",
+    "correctAnswer": "cooking"
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "text",
+    "question": "Which temperature zone supports bacterial growth?",
+    "correctAnswer": "danger zone"
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "text",
+    "question": "Which organism is linked to unpasteurized dairy?",
+    "correctAnswer": "listeria"
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "text",
+    "question": "What temperature (\u00b0C) should food reach to be safe?",
+    "correctAnswer": "75"
+  },
+  {
+    "quiz_category": "Food Safety & Pathogens",
+    "type": "text",
+    "question": "Which plan is used to identify food safety hazards?",
+    "correctAnswer": "haccp"
+  },
+
+
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which microorganism is essential in yogurt fermentation?",
+    "options": [
+      "Saccharomyces cerevisiae",
+      "Lactobacillus",
+      "Penicillium",
+      "Rhizopus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "What is the primary benefit of probiotics?",
+    "options": [
+      "Cause infections",
+      "Boost gut health",
+      "Increase sugar levels",
+      "Kill healthy bacteria"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which fermented food contains beneficial bacteria for digestion?",
+    "options": [
+      "Ice cream",
+      "Kimchi",
+      "Fried rice",
+      "Bread"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which yeast is commonly used in bread-making?",
+    "options": [
+      "Candida",
+      "Saccharomyces cerevisiae",
+      "Lactobacillus",
+      "Aspergillus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "What does fermentation produce in alcoholic drinks?",
+    "options": [
+      "Acetic acid",
+      "Ethanol",
+      "Lactic acid",
+      "Hydrogen peroxide"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which fermented milk product is rich in probiotics?",
+    "options": [
+      "Butter",
+      "Cream",
+      "Kefir",
+      "Ghee"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "What byproduct is released during fermentation by yeasts?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Sulfur",
+      "Ammonia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "What kind of bacteria is used in sauerkraut fermentation?",
+    "options": [
+      "Lactobacillus",
+      "Clostridium",
+      "E. coli",
+      "Bacillus"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which component increases in fermented foods?",
+    "options": [
+      "Pathogens",
+      "Beneficial microbes",
+      "Preservatives",
+      "Pesticides"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which fungi is used in soy sauce fermentation?",
+    "options": [
+      "Aspergillus oryzae",
+      "Rhizopus",
+      "Candida",
+      "Fusarium"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which fermented tea is known for its probiotic content?",
+    "options": [
+      "Chamomile",
+      "Kombucha",
+      "Black tea",
+      "Green tea"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "What is the primary sugar fermented in winemaking?",
+    "options": [
+      "Sucrose",
+      "Fructose",
+      "Glucose",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which fermentation product gives sour flavor to pickles?",
+    "options": [
+      "Alcohol",
+      "Lactic acid",
+      "Acetic acid",
+      "Citric acid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Fermented foods can help improve...",
+    "options": [
+      "Cholesterol levels",
+      "Internet speed",
+      "Sunlight absorption",
+      "Blood type"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Miso is made using fermentation of...",
+    "options": [
+      "Barley",
+      "Soybeans",
+      "Corn",
+      "Wheat"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which microbe is used in cheese making?",
+    "options": [
+      "Streptococcus thermophilus",
+      "Rhizobium",
+      "Mycobacterium",
+      "Salmonella"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which of the following is a fermented food?",
+    "options": [
+      "Apple",
+      "Milk",
+      "Tempeh",
+      "Lettuce"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which country is famous for natto, a fermented soybean product?",
+    "options": [
+      "India",
+      "Japan",
+      "France",
+      "Mexico"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Fermentation is an example of what type of respiration?",
+    "options": [
+      "Aerobic",
+      "Photosynthetic",
+      "Anaerobic",
+      "Oxidative"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "multiple",
+    "question": "Which compound is often produced by lactic acid bacteria?",
+    "options": [
+      "Ethanol",
+      "Oxygen",
+      "Lactic acid",
+      "Ammonia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "truefalse",
+    "question": "Fermentation can increase the shelf life of food.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "truefalse",
+    "question": "Probiotics are harmful bacteria.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "truefalse",
+    "question": "Yogurt is produced using bacterial fermentation.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "truefalse",
+    "question": "All fermented foods contain alcohol.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "truefalse",
+    "question": "Lactic acid fermentation is involved in making pickles.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "truefalse",
+    "question": "Microbes in fermented foods can support immune health.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "truefalse",
+    "question": "Sourdough bread uses natural fermentation.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "truefalse",
+    "question": "Kombucha contains yeast and bacteria.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "truefalse",
+    "question": "Fermentation requires oxygen to occur.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "truefalse",
+    "question": "Tempeh is fermented with fungi.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "text",
+    "question": "Which microorganism is used to make yogurt?",
+    "correctAnswer": "lactobacillus"
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "text",
+    "question": "Which yeast is used in bread and beer fermentation?",
+    "correctAnswer": "saccharomyces cerevisiae"
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "text",
+    "question": "What acid is produced in lactic acid fermentation?",
+    "correctAnswer": "lactic acid"
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "text",
+    "question": "Name a fermented Korean food rich in probiotics.",
+    "correctAnswer": "kimchi"
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "text",
+    "question": "Which bacteria is essential in kefir?",
+    "correctAnswer": "lactobacillus"
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "text",
+    "question": "Which gas is released during bread fermentation?",
+    "correctAnswer": "carbon dioxide"
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "text",
+    "question": "Which fermented drink is made from sweetened tea?",
+    "correctAnswer": "kombucha"
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "text",
+    "question": "Name the fungus used in miso fermentation.",
+    "correctAnswer": "aspergillus oryzae"
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "text",
+    "question": "Which microbial product gives yogurt its tangy flavor?",
+    "correctAnswer": "lactic acid"
+  },
+  {
+    "quiz_category": "Fermentation & Beneficial Microbes",
+    "type": "text",
+    "question": "What is the general term for beneficial microbes?",
+    "correctAnswer": "probiotics"
+  },
+
+
+
+
+
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Which method removes water to preserve food?",
+    "options": [
+      "Canning",
+      "Freezing",
+      "Dehydration",
+      "Fermentation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "What is the purpose of pasteurization?",
+    "options": [
+      "Enhance flavor",
+      "Kill harmful microbes",
+      "Add nutrients",
+      "Improve color"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Which preservation method uses heat and vacuum sealing?",
+    "options": [
+      "Fermentation",
+      "Canning",
+      "Freezing",
+      "Drying"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Which gas is often used in modified atmosphere packaging (MAP)?",
+    "options": [
+      "Oxygen",
+      "Methane",
+      "Carbon dioxide",
+      "Nitrogen dioxide"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "What does freezing do to microbial activity?",
+    "options": [
+      "Kills all microbes",
+      "Slows it down",
+      "Speeds it up",
+      "Prevents nutrient loss"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Which of the following is a chemical preservative?",
+    "options": [
+      "Salt",
+      "Water",
+      "Sugar",
+      "Vinegar"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "What is irradiation used for?",
+    "options": [
+      "Coloring food",
+      "Cooking food",
+      "Killing pathogens",
+      "Freezing food"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "What preservation technique involves lowering the temperature below 0\u00b0C?",
+    "options": [
+      "Pasteurization",
+      "Refrigeration",
+      "Freezing",
+      "Fermentation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Which of these extends shelf life without affecting taste?",
+    "options": [
+      "Freezing",
+      "Canning",
+      "Drying",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Which method is commonly used for preserving jams?",
+    "options": [
+      "Irradiation",
+      "Drying",
+      "Sugar preservation",
+      "Pasteurization"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Vacuum packing removes which gas from packaging?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Which method prevents oxidation of fats in food?",
+    "options": [
+      "Vacuum sealing",
+      "Drying",
+      "Irradiation",
+      "Refrigeration"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Drying food primarily prevents growth of...",
+    "options": [
+      "Fungi",
+      "Yeast",
+      "Bacteria",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Pickling involves which main preservative?",
+    "options": [
+      "Alcohol",
+      "Salt",
+      "Acid",
+      "Sugar"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Which preservation technique uses high pressure instead of heat?",
+    "options": [
+      "Fermentation",
+      "Irradiation",
+      "High Pressure Processing",
+      "Canning"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "The removal of moisture from food is called...",
+    "options": [
+      "Condensation",
+      "Dehydration",
+      "Emulsification",
+      "Rehydration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "What is the ideal refrigerator temperature to slow bacterial growth?",
+    "options": [
+      "10\u00b0C",
+      "4\u00b0C",
+      "0\u00b0C",
+      "-5\u00b0C"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Salting meat preserves it by...",
+    "options": [
+      "Increasing acidity",
+      "Drawing out moisture",
+      "Heating it",
+      "Adding nutrients"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Which food is preserved using both salt and drying?",
+    "options": [
+      "Yogurt",
+      "Cheese",
+      "Beef jerky",
+      "Bread"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "multiple",
+    "question": "Which method is commonly used for milk preservation?",
+    "options": [
+      "Pasteurization",
+      "Dehydration",
+      "Freezing",
+      "Curing"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "truefalse",
+    "question": "Refrigeration slows down microbial growth.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "truefalse",
+    "question": "Irradiation makes food radioactive.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "truefalse",
+    "question": "Vacuum packaging can extend food shelf life.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "truefalse",
+    "question": "Canning destroys all bacteria and spores.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "truefalse",
+    "question": "Adding sugar to foods can help preserve them.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "truefalse",
+    "question": "Pickling preserves food using acid.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "truefalse",
+    "question": "Freezing food kills all pathogens.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "truefalse",
+    "question": "Salt draws moisture out of food to inhibit bacteria.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "truefalse",
+    "question": "Dry foods have longer shelf lives because they lack water.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "truefalse",
+    "question": "Preserved foods always lose nutritional value.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "text",
+    "question": "Which method involves removing water from food?",
+    "correctAnswer": "dehydration"
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "text",
+    "question": "Which technique uses heat to kill microbes in milk?",
+    "correctAnswer": "pasteurization"
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "text",
+    "question": "What preservative is commonly used in pickling?",
+    "correctAnswer": "vinegar"
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "text",
+    "question": "What process removes air from packaging?",
+    "correctAnswer": "vacuum sealing"
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "text",
+    "question": "Name a preservation method that uses cold temperatures.",
+    "correctAnswer": "freezing"
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "text",
+    "question": "Which gas is removed in vacuum packaging?",
+    "correctAnswer": "oxygen"
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "text",
+    "question": "Which food is often preserved through curing?",
+    "correctAnswer": "meat"
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "text",
+    "question": "What temperature (\u00b0C) should a refrigerator be set to?",
+    "correctAnswer": "4"
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "text",
+    "question": "Which high-tech method uses pressure instead of heat?",
+    "correctAnswer": "hpp"
+  },
+  {
+    "quiz_category": "Food Preservation Techniques",
+    "type": "text",
+    "question": "What is added to jams to help preserve them?",
+    "correctAnswer": "sugar"
+  },
+
+
+
+
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "Which technology helps detect pathogens in food quickly?",
+    "options": [
+      "PCR",
+      "Photosynthesis",
+      "Autoclaving",
+      "Irrigation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "What is CRISPR used for in food microbiology?",
+    "options": [
+      "Detecting flavors",
+      "Gene editing",
+      "Cooking food",
+      "Preserving texture"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "Which technology allows tracking of foodborne outbreaks via DNA?",
+    "options": [
+      "X-ray",
+      "Blockchain",
+      "Whole-genome sequencing",
+      "Pasteurization"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "Which startup is known for lab-grown seafood?",
+    "options": [
+      "Impossible Foods",
+      "Wildtype",
+      "Oatly",
+      "Beyond Meat"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "What does biosensor technology detect?",
+    "options": [
+      "Temperature",
+      "Color",
+      "Microbial contaminants",
+      "Weight"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "What is a smart label used for?",
+    "options": [
+      "Design",
+      "Advertising",
+      "Tracking freshness",
+      "Adding nutrition"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "How does AI help in food safety?",
+    "options": [
+      "Making food tastier",
+      "Predicting contamination risks",
+      "Replacing chefs",
+      "Killing bacteria"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "Which material is emerging as an antimicrobial packaging component?",
+    "options": [
+      "Aluminum",
+      "Plastic",
+      "Chitosan",
+      "Paper"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "Which microbe-based method can produce sustainable protein?",
+    "options": [
+      "Genetic doping",
+      "Fermentation",
+      "Deep-frying",
+      "Irradiation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "What can blockchain ensure in food supply chains?",
+    "options": [
+      "Advertising",
+      "Music integration",
+      "Transparency",
+      "Fermentation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "Which method is used to grow meat without animals?",
+    "options": [
+      "Vertical farming",
+      "Synthetic coloring",
+      "Cell culture",
+      "3D printing only"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "What is the benefit of high-pressure processing (HPP)?",
+    "options": [
+      "Adds flavor",
+      "Kills microbes without heat",
+      "Increases fat",
+      "Freezes food"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "What role does nanotechnology play in food microbiology?",
+    "options": [
+      "Changing color",
+      "Detecting pathogens",
+      "Improving taste",
+      "Growing crops faster"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "What technology uses heat maps to monitor contamination?",
+    "options": [
+      "Infrared imaging",
+      "Microscopy",
+      "Laser cutting",
+      "Thermostats"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "Which emerging food product is grown using fermentation tech?",
+    "options": [
+      "Artificial sweeteners",
+      "Microbial meat",
+      "Sugar substitutes",
+      "Seaweed chips"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "Which of the following is a benefit of lab-grown meat?",
+    "options": [
+      "Longer cooking time",
+      "Higher risk of disease",
+      "Ethical production",
+      "Lack of protein"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "What is a microbiome chip?",
+    "options": [
+      "Computer chip",
+      "DNA sequencing tool",
+      "Sensor to study gut microbes",
+      "Cleaning device"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "Which AI method helps forecast food spoilage?",
+    "options": [
+      "Regression trees",
+      "Blockchain",
+      "Machine vision",
+      "IoT sensors"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "What is one benefit of 3D printing food?",
+    "options": [
+      "Reduces bacteria",
+      "Enhances nutrition customization",
+      "Cools food instantly",
+      "Reduces calories"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "multiple",
+    "question": "What microbial platform is used in precision fermentation?",
+    "options": [
+      "Yeast",
+      "E. coli",
+      "Molds",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "truefalse",
+    "question": "CRISPR is used for precise gene editing in microbes.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "truefalse",
+    "question": "AI has no application in detecting food spoilage.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "truefalse",
+    "question": "Whole-genome sequencing can trace the source of a foodborne outbreak.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "truefalse",
+    "question": "High-pressure processing uses heat to sterilize food.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "truefalse",
+    "question": "Nanoparticles can be used in sensors to detect pathogens.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "truefalse",
+    "question": "Smart labels change color based on food freshness.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "truefalse",
+    "question": "Lab-grown meat contains no animal cells.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "truefalse",
+    "question": "3D printing can be used to produce custom-designed meals.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "truefalse",
+    "question": "Microbiome chips are used for entertainment purposes.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "truefalse",
+    "question": "Blockchain can help trace food products in a supply chain.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "text",
+    "question": "What gene-editing technology is revolutionizing food microbiology?",
+    "correctAnswer": "crispr"
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "text",
+    "question": "Which sequencing method helps trace foodborne illness sources?",
+    "correctAnswer": "whole-genome sequencing"
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "text",
+    "question": "What emerging technology prints personalized meals?",
+    "correctAnswer": "3d printing"
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "text",
+    "question": "Name the antimicrobial compound found in some packaging materials.",
+    "correctAnswer": "chitosan"
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "text",
+    "question": "What platform grows lab-grown meat?",
+    "correctAnswer": "cell culture"
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "text",
+    "question": "Which tech ensures transparency in food supply chains?",
+    "correctAnswer": "blockchain"
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "text",
+    "question": "Which microbial process is used in precision fermentation?",
+    "correctAnswer": "fermentation"
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "text",
+    "question": "What device detects contamination using AI and sensors?",
+    "correctAnswer": "biosensor"
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "text",
+    "question": "Which field uses extremely small particles for detection?",
+    "correctAnswer": "nanotechnology"
+  },
+  {
+    "quiz_category": "Emerging Tech in Food Microbiology",
+    "type": "text",
+    "question": "What system uses pressure to kill pathogens without heat?",
+    "correctAnswer": "hpp"
+  },
+
+
+
+
+
+
+
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "Which skill is essential for leadership in STEM careers?",
+    "options": [
+      "Silence",
+      "Mentorship",
+      "Avoidance",
+      "Procrastination"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "Which demographic is underrepresented in microbiology academia?",
+    "options": [
+      "White males",
+      "Asian women",
+      "International students",
+      "Male nurses"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "What is a common barrier faced by women in STEM careers?",
+    "options": [
+      "Too many scholarships",
+      "Lack of interest",
+      "Gender bias",
+      "Free tuition"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "Which initiative supports women in science?",
+    "options": [
+      "STEM for All",
+      "Girls Who Code",
+      "Women in STEM",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "What does the 'leaky pipeline' metaphor refer to in STEM?",
+    "options": [
+      "Bad lab equipment",
+      "Dropout of women over time",
+      "Broken water systems",
+      "Funding shortages"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "Which of the following is a benefit of diverse teams in science?",
+    "options": [
+      "Higher conflict",
+      "Faster experiments",
+      "Broader perspectives",
+      "More regulations"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "What is one way to encourage diversity in microbiology careers?",
+    "options": [
+      "Hiring based on stereotypes",
+      "Mentorship programs",
+      "Only hiring seniors",
+      "Avoiding collaboration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "Which organization often provides STEM scholarships for underrepresented groups?",
+    "options": [
+      "UNESCO",
+      "NASA",
+      "IEEE",
+      "NSF"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "What is one challenge faced by Asian women in STEM?",
+    "options": [
+      "Too much exposure",
+      "Overrepresentation",
+      "Cultural stereotypes",
+      "Increased funding"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "Which career involves studying microbes in food?",
+    "options": [
+      "Microbiologist",
+      "Botanist",
+      "Physicist",
+      "Geologist"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "What does STEM stand for?",
+    "options": [
+      "Science, Tech, Energy, Medicine",
+      "Science, Technology, Engineering, Math",
+      "Software, Tech, Engineering, Microbiology",
+      "None of the above"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "What is a critical skill in microbiology research?",
+    "options": [
+      "Drawing",
+      "Coding",
+      "Observation",
+      "Acting"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "Why is representation important in STEM fields?",
+    "options": [
+      "It improves food taste",
+      "It reduces diversity",
+      "It inspires inclusion",
+      "It increases costs"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Barbara McClintock",
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Ada Lovelace"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "How can universities support diversity in science?",
+    "options": [
+      "Exclusive clubs",
+      "Outreach programs",
+      "Raising tuition",
+      "Less research funding"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "What soft skill helps microbiologists lead teams?",
+    "options": [
+      "Empathy",
+      "Silence",
+      "Avoidance",
+      "Aggression"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "What is the term for subtle discrimination in the workplace?",
+    "options": [
+      "Bullying",
+      "Microaggression",
+      "Favoritism",
+      "Reverse mentoring"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "Which continent has the lowest female participation in STEM?",
+    "options": [
+      "Europe",
+      "Africa",
+      "Asia",
+      "Oceania"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "What kind of mentor is ideal for STEM career growth?",
+    "options": [
+      "Passive",
+      "Supportive",
+      "Uninvolved",
+      "Judgmental"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "multiple",
+    "question": "Which job focuses on ensuring food safety using microbiology?",
+    "options": [
+      "Food microbiologist",
+      "Chef",
+      "Nutritionist",
+      "Zoologist"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "truefalse",
+    "question": "Asian women are underrepresented in STEM leadership roles.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "truefalse",
+    "question": "Diversity in science teams leads to better problem-solving.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "truefalse",
+    "question": "Implicit bias can affect hiring decisions in STEM fields.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "truefalse",
+    "question": "STEM fields have achieved full gender equality.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "truefalse",
+    "question": "Mentorship has no impact on career success in science.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "truefalse",
+    "question": "Microbiology is a potential career path within STEM.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "truefalse",
+    "question": "Communication skills are not important for microbiologists.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "truefalse",
+    "question": "Cultural expectations can influence STEM participation.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "truefalse",
+    "question": "There are active efforts to support women in science.",
+    "correctAnswer": true
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "truefalse",
+    "question": "Bias in STEM only affects students, not professionals.",
+    "correctAnswer": false
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "text",
+    "question": "Which underrepresented group is the focus of many diversity efforts in microbiology?",
+    "correctAnswer": "asian women"
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "text",
+    "question": "What is a common professional development tool for early-career scientists?",
+    "correctAnswer": "mentorship"
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "text",
+    "question": "Which term describes hidden discrimination?",
+    "correctAnswer": "microaggression"
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "text",
+    "question": "What soft skill is vital for inclusive leadership?",
+    "correctAnswer": "empathy"
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "text",
+    "question": "Which science award did Marie Curie win twice?",
+    "correctAnswer": "nobel"
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "text",
+    "question": "Which STEM field studies bacteria, viruses, and fungi?",
+    "correctAnswer": "microbiology"
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "text",
+    "question": "What program helps bring more women into STEM careers?",
+    "correctAnswer": "outreach"
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "text",
+    "question": "What concept refers to talented individuals leaving STEM careers?",
+    "correctAnswer": "leaky pipeline"
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "text",
+    "question": "Name a job where microbiology is applied in the food industry.",
+    "correctAnswer": "food microbiologist"
+  },
+  {
+    "quiz_category": "Career & Diversity in STEM",
+    "type": "text",
+    "question": "What quality helps leaders understand and support diverse teams?",
+    "correctAnswer": "empathy"
+  }
+
+
+
+]

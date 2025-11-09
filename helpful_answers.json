@@ -1,0 +1,12 @@
+[
+  {
+    "answer": "Cholera is a bacterial infection caused by Vibro cholerae, typically associated with severe diarrhoea and dehydration.",
+    "helpful": 6,
+    "not_helpful": 12
+  },
+  {
+    "answer": "HPP, or High Pressure Processing, is a nonthermal food preservation technique that inactivates pathogens and harmful micro",
+    "helpful": 6,
+    "not_helpful": 1
+  }
+]
